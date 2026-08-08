@@ -145,7 +145,6 @@ The application includes a colorful and responsive interface with:
 ### Frontend
 
 * Streamlit
-* HTML
 * CSS
 
 ### Data Analysis
@@ -167,7 +166,6 @@ The application includes a colorful and responsive interface with:
 ### Utilities
 
 * python-dotenv
-* Joblib
 
 ### Version Control
 
@@ -472,47 +470,6 @@ The application can be used for datasets such as:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of the application here after completing the project.
-
-### Home Page
-
-```text
-screenshots/home.png
-```
-
-### Dataset Upload
-
-```text
-screenshots/upload.png
-```
-
-### Dataset Overview
-
-```text
-screenshots/overview.png
-```
-
-### Visualizations
-
-```text
-screenshots/visualizations.png
-```
-
-### Ask AI
-
-```text
-screenshots/ask-ai.png
-```
-
-### Business Insights
-
-```text
-screenshots/business-insights.png
-```
-
----
 
 ## 🔐 Security
 
@@ -567,8 +524,7 @@ These features are intentionally not included in the current version to keep the
 
 ## 📌 Project Status
 
-**Status:** Completed / Portfolio Ready 🚀
-
+**Status:** Completed 
 The current version focuses on demonstrating the fundamentals of AI-powered data analysis without unnecessary enterprise-level complexity.
 
 ---
